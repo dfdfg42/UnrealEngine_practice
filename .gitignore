@@ -1,0 +1,17 @@
+# Intermediate, Saved 등 불필요한 파일 제외
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.idea/
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# 빌드 결과물 제외
+Build/
